@@ -23,4 +23,8 @@ python-dotenv
 
 # Machine Learning Utilities
 numpy
+<<<<<<< HEAD
 scikit-learn
+=======
+scikit-learn
+>>>>>>> upstream/master
